@@ -2,7 +2,7 @@
 
 
 ## About me
-**👋 Hi, I’m Madhumita Mondal...Generally interested in Software Engineering / Data Science, Starting from Design and Ending with.hmmm...well there's no end!** 
+## **👋 Hi, I’m Madhumita Mondal...Generally interested in Software Engineering / Data Science, Starting from Design and Ending with....hmmm...well there's no end!** 
 
 
 
@@ -20,15 +20,19 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
-**QUOTE**
-> Stay hungry stay foolish.
-— Steve Jobs
+## **QUOTE:**
+
+
+  Stay hungry stay foolish.
+— **Steve Jobs**
 ---
 
 
 
 
-**-👀 I’m Currently interested in ...**
+
+
+## **<img alt="alt_text" width="30px" src="https://user-images.githubusercontent.com/48853024/206567541-1f2ee95f-293b-4c33-a8d2-7e222ce4a27c.png" /> I’m Currently interested in ...**
 
 <p align="center">
   <img width="660" height="500" src="https://user-images.githubusercontent.com/48853024/206331467-ef11f9be-3996-4cc1-9ecb-44d69e934c35.gif">
@@ -42,6 +46,9 @@ You can click the Preview link to take a look at your changes.
 
 
 ![data1](https://user-images.githubusercontent.com/48853024/206341213-e6ec9587-093c-4e42-930b-ab2526062e81.png)
+
+
+
 
 
 ---
@@ -59,6 +66,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
+
+
 ---
 **Design Softwares**
 <p align="left">
@@ -68,6 +77,9 @@ You can click the Preview link to take a look at your changes.
   <img width="50" height="50" src="https://user-images.githubusercontent.com/48853024/206379944-6df0d5e4-eb59-4100-8e39-0a8d276894a6.jpg">
   <img width="50" height="50" src="https://user-images.githubusercontent.com/48853024/206379978-dbc4bcbb-a50c-434c-8c5a-e7f20a985b90.jpg">
 </p>
+
+
+
 
 ---
 **Operating systems**
@@ -79,25 +91,32 @@ You can click the Preview link to take a look at your changes.
 
 
 
+----
+**📫 Connect with me**
+
+[<img alt="alt_text" width="100px" src="https://user-images.githubusercontent.com/48853024/206545462-8c606a41-1d7b-4fc2-be38-ec8dc33ea791.png" />](https://www.linkedin.com/in/madhumita-mondal-86007a1a4/)
+[<img alt="alt_text" width="100px" src="https://user-images.githubusercontent.com/48853024/206545462-8c606a41-1d7b-4fc2-be38-ec8dc33ea791.png" />](https://www.linkedin.com/in/madhumita-mondal-86007a1a4/)
+
 
 ---
-**Connect with me**
+## **My Github Content**  <img alt="alt_text" width="30px" src="https://user-images.githubusercontent.com/48853024/206559702-a6b9502f-f22b-47bc-9e4f-fe89efbdf6ff.png" />
 
+- ## **1. UI/UX**
 
+- ## **2. Front End Development**
 
-[<img alt="alt_text" width="60px" src="https://user-images.githubusercontent.com/48853024/206545462-8c606a41-1d7b-4fc2-be38-ec8dc33ea791.png" />](https://www.linkedin.com/in/madhumita-mondal-86007a1a4/)
+- ## **3. ML & Data Science**
 
- 
+- ## **4. General CS Projects**
 
+- ## **5. Problem Solving**
 
-
-
-
-- 💞️ I’m looking to collaborate on ...
+- ## **6. Soft Skills**
 
 
 - 📫 How to reach me ...
-- [<img alt="alt_text" img width="60" height="40" src="https://user-images.githubusercontent.com/48853024/206545462-8c606a41-1d7b-4fc2-be38-ec8dc33ea791.png">]    (https://www.linkedin.com/in/madhumita-mondal-86007a1a4/)
+- 💞️ I’m looking to collaborate on ...
+
 
 
 
