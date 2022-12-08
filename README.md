@@ -55,6 +55,7 @@ You can click the Preview link to take a look at your changes.
 **Languages**
 <p align="left">
   <img width="45" height="45" src="https://user-images.githubusercontent.com/48853024/206374530-0000a15e-2ddf-4c6e-bb8d-55714daa9f5d.jpg">
+  <img width="45" height="45" src="https://user-images.githubusercontent.com/48853024/206571623-034791be-e72c-4a7c-9739-363819623da1.png">
   <img width="50" height="50" src="https://user-images.githubusercontent.com/48853024/206375883-ca9b9090-93d4-44b5-9996-03e51100cd6b.jpg">
   <img width="50" height="50" src="https://user-images.githubusercontent.com/48853024/206372196-12c49b08-8757-4b25-a810-d4206f316a78.jpg">
   <img width="50" height="50" src="https://user-images.githubusercontent.com/48853024/206375191-a8139e8c-e61c-4c00-8391-d979bdc86115.jpg">
@@ -68,6 +69,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
+
+
 ---
 **Design Softwares**
 <p align="left">
@@ -76,7 +79,13 @@ You can click the Preview link to take a look at your changes.
   <img width="50" height="50" src="https://user-images.githubusercontent.com/48853024/206379793-438f85de-c573-4514-b4e3-487666738b91.jpg">
   <img width="50" height="50" src="https://user-images.githubusercontent.com/48853024/206379944-6df0d5e4-eb59-4100-8e39-0a8d276894a6.jpg">
   <img width="50" height="50" src="https://user-images.githubusercontent.com/48853024/206379978-dbc4bcbb-a50c-434c-8c5a-e7f20a985b90.jpg">
+  <img width="50" height="50" src="https://user-images.githubusercontent.com/48853024/206570325-235faf68-b37b-46fb-9d52-8d4e638fb0db.png">
+  <img width="50" height="50" src="https://user-images.githubusercontent.com/48853024/206570868-96c48f2b-2b9e-47cd-b370-439c3f9ba557.png">
+  <img width="50" height="50" src="https://user-images.githubusercontent.com/48853024/206572360-216e2102-4b37-4568-b394-16db83c00115.png">
 </p>
+
+
+
 
 
 
@@ -100,21 +109,50 @@ You can click the Preview link to take a look at your changes.
 
 ---
 ## **My Github Content**  <img alt="alt_text" width="30px" src="https://user-images.githubusercontent.com/48853024/206559702-a6b9502f-f22b-47bc-9e4f-fe89efbdf6ff.png" />
+<p align="center">
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/48853024/206579979-3f6127da-26d1-4590-a241-334ca17041fc.png">
+  <img width="400" height="300" src="https://user-images.githubusercontent.com/48853024/206568969-0c2a3980-183c-4e50-b061-13c6e5ba5f07.jpeg">
+</p>
+
+
+
+
+
+
 
 - ## **1. UI/UX**
+     -
+     -
+     -
 
 - ## **2. Front End Development**
+     -
+     -
+     -
 
 - ## **3. ML & Data Science**
+     -
+     -
+     -
 
 - ## **4. General CS Projects**
+     -
+     -
+     -
 
 - ## **5. Problem Solving**
+     -
+     -
+     -
 
 - ## **6. Soft Skills**
+     -
+     -
+     -
 
 
-- 📫 How to reach me ...
+
+
 - 💞️ I’m looking to collaborate on ...
 
 
