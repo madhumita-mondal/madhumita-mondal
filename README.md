@@ -82,7 +82,14 @@ You can click the Preview link to take a look at your changes.
 
 ---
 **Connect with me**
-[<img width="60" height="40" src="https://user-images.githubusercontent.com/48853024/206545462-8c606a41-1d7b-4fc2-be38-ec8dc33ea791.png">](https://www.linkedin.com/in/madhumita-mondal-86007a1a4/)                                
+
+
+
+[<img alt="alt_text" width="60px" src="https://user-images.githubusercontent.com/48853024/206545462-8c606a41-1d7b-4fc2-be38-ec8dc33ea791.png" />](https://www.linkedin.com/in/madhumita-mondal-86007a1a4/)
+
+ 
+
+
 
 
 
@@ -90,7 +97,7 @@ You can click the Preview link to take a look at your changes.
 
 
 - 📫 How to reach me ...
-- 
+- [<img alt="alt_text" img width="60" height="40" src="https://user-images.githubusercontent.com/48853024/206545462-8c606a41-1d7b-4fc2-be38-ec8dc33ea791.png">]    (https://www.linkedin.com/in/madhumita-mondal-86007a1a4/)
 
 
 
