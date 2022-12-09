@@ -170,13 +170,33 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## **<img alt="alt_text" width="70px" src="https://user-images.githubusercontent.com/48853024/206625908-7c42df6d-fa9f-436e-b276-a310f981e9c6.png" /> My Learning resources**
+  ## **<img alt="alt_text" width="70px" src="https://user-images.githubusercontent.com/48853024/206625908-7c42df6d-fa9f-436e-b276-a310f981e9c6.png" /> My Learning resources**
+
+     - [1.]()
+     - [2.]()
+     - [3.]()
+
+  ## **<img alt="alt_text" width="70px" src="https://user-images.githubusercontent.com/48853024/206630270-095623f4-847f-4da0-934f-8bec409bf4fc.png" /> My favorite books which are changed my life every good way**
+
+
+     - [1.]()
+     - [2.]()
+     - [3.]()
 
 
 
 
 
-- 💞️ I’m looking to collaborate on ...
+- ## **💞️ I’m looking to collaborate with people who want to learn and make me learn**
+
+
+
+<p align="center">
+  <img width="700" height="300" src="https://user-images.githubusercontent.com/48853024/206627968-5812460b-01e2-49a3-8a0c-07b5cd866672.png">
+</p>
+
+
+
  
 
 
