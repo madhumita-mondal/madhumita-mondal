@@ -121,41 +121,44 @@ You can click the Preview link to take a look at your changes.
 
 
 - ## **1. UI/UX**
-     -
-     -
-     -
+     - [Project]()
+     - [Project]()
+     - [Project]()
 
 - ## **2. Front End Development**
-     -
-     -
-     -
+     - [Project]()
+     - [Project]()
+     - [Project]()
 
 
 
 
 - ## **3. Data Structure & Algorithms**
+     - [Project]()
+     - [Project]()
+     - [Project]()
 
 
 
 - ## **4. ML & Data Science**
-     -
-     -
-     -
+     - [Project]()
+     - [Project]()
+     - [Project]()
 
 - ## **5. General CS Projects**
      - [Music library project_c++](https://docs.google.com/presentation/d/e/2PACX-1vTZuGS7GfmHVOwi055VyST3VV3OFcsKOujzDHsRhcSAVGeyS54mrIU9SQEWccDRcQ2WLbteQ2UqWqO8/pub?start=true&loop=false&delayms=3000)
-     -
-     -
+     - [Project]()
+     - [Project]()
 
 - ## **6. Problem Solving**
-     -
-     -
-     -
+     - [Project]()
+     - [Project]()
+     - [Project]()
 
 - ## **7. Soft Skills**
-     -
-     -
-     -
+     - [Project]()
+     - [Project]()
+     - [Project]()
 
 
 
