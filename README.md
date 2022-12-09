@@ -142,10 +142,17 @@ You can click the Preview link to take a look at your changes.
 
 - ## **4. ML & Data Science**
      - [Project]()
-           - [The Structured Query Language]()
+          - [The Structured Query Language]()
+           
      - [Project]()
+          - [Ethical Issues in Data Science]() 
+          
      - [Project]()
-
+          - [Relational Database Design]()
+          
+     - [Project]()
+          - [Data Mining Pipeline]()
+          
 - ## **5. General CS Projects**
      - [Music library project_c++](https://docs.google.com/presentation/d/e/2PACX-1vTZuGS7GfmHVOwi055VyST3VV3OFcsKOujzDHsRhcSAVGeyS54mrIU9SQEWccDRcQ2WLbteQ2UqWqO8/pub?start=true&loop=false&delayms=3000)
      - [Project]()
