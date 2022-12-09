@@ -130,22 +130,29 @@ You can click the Preview link to take a look at your changes.
      -
      -
 
-- ## **3. ML & Data Science**
+
+
+
+- ## **3. Data Structure & Algorithms**
+
+
+
+- ## **4. ML & Data Science**
      -
      -
      -
 
-- ## **4. General CS Projects**
-     - [A](https://docs.google.com/presentation/d/e/2PACX-1vTZuGS7GfmHVOwi055VyST3VV3OFcsKOujzDHsRhcSAVGeyS54mrIU9SQEWccDRcQ2WLbteQ2UqWqO8/pub?start=true&loop=false&delayms=3000)
+- ## **5. General CS Projects**
+     - [Music library project_c++](https://docs.google.com/presentation/d/e/2PACX-1vTZuGS7GfmHVOwi055VyST3VV3OFcsKOujzDHsRhcSAVGeyS54mrIU9SQEWccDRcQ2WLbteQ2UqWqO8/pub?start=true&loop=false&delayms=3000)
      -
      -
 
-- ## **5. Problem Solving**
+- ## **6. Problem Solving**
      -
      -
      -
 
-- ## **6. Soft Skills**
+- ## **7. Soft Skills**
      -
      -
      -
