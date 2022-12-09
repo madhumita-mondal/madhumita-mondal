@@ -151,7 +151,9 @@ You can click the Preview link to take a look at your changes.
           - [Relational Database Design](https://drive.google.com/file/d/1yKLhZdlfGQ2Gqhps8aiUhu1UTM802bJQ/view)
           
      - [Project]()
-          - [Data Mining Pipeline]()
+          - [Data Mining Pipeline 1](file:///C:/Users/anishm/Downloads/data-cube-Copy1.html)
+          - [Data Mining Pipeline 2](file:///C:/Users/anishm/Downloads/data-normalization.html)
+          - [Data Mining Pipeline 3](file:///C:/Users/anishm/Downloads/data-understanding.html)
           
 - ## **5. General CS Projects**
      - [Music library project_c++](https://docs.google.com/presentation/d/e/2PACX-1vTZuGS7GfmHVOwi055VyST3VV3OFcsKOujzDHsRhcSAVGeyS54mrIU9SQEWccDRcQ2WLbteQ2UqWqO8/pub?start=true&loop=false&delayms=3000)
