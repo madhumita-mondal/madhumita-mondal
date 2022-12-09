@@ -142,7 +142,7 @@ You can click the Preview link to take a look at your changes.
 
 - ## **4. ML & Data Science**
      - [Project]()
-          - [The Structured Query Language]()
+          - [The Structured Query Language](https://drive.google.com/file/d/1XJiz9Drn1GTKpI5GBEsKjQiuq7eeqeed/view?usp=sharing)
            
      - [Project]()
           - [Ethical Issues in Data Science]() 
