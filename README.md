@@ -176,7 +176,7 @@ You can click the Preview link to take a look at your changes.
      - [2.]()
      - [3.]()
 
-  ## **<img alt="alt_text" width="70px" src="https://user-images.githubusercontent.com/48853024/206630270-095623f4-847f-4da0-934f-8bec409bf4fc.png" /> My favorite books which are changed my life every good way**
+  ## **<img alt="alt_text" width="70px" src="https://user-images.githubusercontent.com/48853024/206630270-095623f4-847f-4da0-934f-8bec409bf4fc.png" /> My favorite books which are changed my life for every good way**
 
 
      - [1.]()
