@@ -181,7 +181,7 @@ You can click the Preview link to take a look at your changes.
 
   ## **<img alt="alt_text" width="70px" src="https://user-images.githubusercontent.com/48853024/206625908-7c42df6d-fa9f-436e-b276-a310f981e9c6.png" /> My Learning resources**
 
-     - [1.]()
+     - [1.](https://drive.google.com/drive/folders/1vqd-KHs5uofIPOg_NGDtdVXpHW2o6_oB?usp=sharing)
      - [2.]()
      - [3.]()
 
