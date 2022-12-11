@@ -2,7 +2,7 @@
 
 
 ## About me
-## **👋 Hi, I’m Madhumita Mondal...Generally interested in Software Engineering / Data Science, Starting from Design and Ending with....hmmm...well there's no end!** 
+## **👋 Hi, I’m Madhumita Mondal. I'm Generally interested in Software Engineering / Data Science, Starting from Design and Ending with....hmmm, well there's no end!** 
 
 
 
@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## **<img alt="alt_text" width="30px" src="https://user-images.githubusercontent.com/48853024/206567541-1f2ee95f-293b-4c33-a8d2-7e222ce4a27c.png" /> I’m Currently interested in ...**
+## **<img alt="alt_text" width="30px" src="https://user-images.githubusercontent.com/48853024/206567541-1f2ee95f-293b-4c33-a8d2-7e222ce4a27c.png" /> I’m currently interested in...**
 
 <p align="center">
   <img width="660" height="500" src="https://user-images.githubusercontent.com/48853024/206331467-ef11f9be-3996-4cc1-9ecb-44d69e934c35.gif">
@@ -91,7 +91,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
-**Operating systems**
+**Operating Systems**
 <p align="left">
   <img width="50" height="50" src="https://user-images.githubusercontent.com/48853024/206382985-438e7edb-b5ee-4054-a09b-cf068a8df284.jpg">
   <img width="50" height="50" src="https://user-images.githubusercontent.com/48853024/206382979-d8bd0731-4479-4a38-87a5-edcba752e036.jpg">
@@ -101,7 +101,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ----
-**📫 Connect with me**
+**📫 Connect With Me**
 
 [<img alt="alt_text" width="100px" src="https://user-images.githubusercontent.com/48853024/206545462-8c606a41-1d7b-4fc2-be38-ec8dc33ea791.png" />](https://www.linkedin.com/in/madhumita-mondal-86007a1a4/)
 [<img alt="alt_text" width="100px" src="https://user-images.githubusercontent.com/48853024/206545462-8c606a41-1d7b-4fc2-be38-ec8dc33ea791.png" />](https://www.linkedin.com/in/madhumita-mondal-86007a1a4/)
@@ -173,25 +173,24 @@ You can click the Preview link to take a look at your changes.
 
 
 
-  ## **<img alt="alt_text" width="60px" src="https://user-images.githubusercontent.com/48853024/206649604-ff6b5e94-c34c-4fb7-8543-bfa77fd7bcb2.png" /> My Leeetcode journey**
+  ## **<img alt="alt_text" width="60px" src="https://user-images.githubusercontent.com/48853024/206649604-ff6b5e94-c34c-4fb7-8543-bfa77fd7bcb2.png" /> My Leeetcode Journey**
 
 
      - [Leetcode Page](https://leetcode.com/tumpmadhu/)
 
 
-  ## **<img alt="alt_text" width="70px" src="https://user-images.githubusercontent.com/48853024/206625908-7c42df6d-fa9f-436e-b276-a310f981e9c6.png" /> My Learning resources**
+  ## **<img alt="alt_text" width="70px" src="https://user-images.githubusercontent.com/48853024/206625908-7c42df6d-fa9f-436e-b276-a310f981e9c6.png" /> My Learning Resources**
 
      - [1.Data Science](https://drive.google.com/drive/folders/1vqd-KHs5uofIPOg_NGDtdVXpHW2o6_oB?usp=sharing)
      - [2.]()
      - [3.]()
 
-  ## **<img alt="alt_text" width="70px" src="https://user-images.githubusercontent.com/48853024/206630270-095623f4-847f-4da0-934f-8bec409bf4fc.png" /> My favorite books which are changed my life in a every good way**
+  ## **<img alt="alt_text" width="70px" src="https://user-images.githubusercontent.com/48853024/206630270-095623f4-847f-4da0-934f-8bec409bf4fc.png" /> Books which changed my life in a very good way.**
 
 
      <img alt="alt_text" width="70px" src="https://user-images.githubusercontent.com/48853024/206878150-9695bdf5-264d-4dbf-ba9f-94f6a47262cb.png" /> 
      <img alt="alt_text" width="70px" src="https://user-images.githubusercontent.com/48853024/206878319-86e91d3c-b510-4f49-b7af-fe22a99a9d3f.png" />                  
      <img alt="alt_text" width="82px" src="https://user-images.githubusercontent.com/48853024/206878348-5b8ab6f3-a4f4-485d-aa8a-0842b0476b4b.png" /> 
-     <img alt="alt_text" width="70px" src="https://user-images.githubusercontent.com/48853024/206878432-0a76ddd3-f763-46eb-91c4-fe3ac9917d80.png" />
      <img alt="alt_text" width="72px" src="https://user-images.githubusercontent.com/48853024/206878544-0a26348f-133b-48e4-9566-842df15e4e76.png" />
      <img alt="alt_text" width="72px" src="https://user-images.githubusercontent.com/48853024/206878624-c513b1c7-c394-4920-acc8-4ebd3cf9b7d9.png" />
      <img alt="alt_text" width="70px" src="https://user-images.githubusercontent.com/48853024/206878671-ed8ae342-da7a-4bd8-85ff-c5aa60d49c61.png" />
@@ -199,9 +198,10 @@ You can click the Preview link to take a look at your changes.
      <img alt="alt_text" width="75px" src="https://user-images.githubusercontent.com/48853024/206879006-731b885a-f19a-409d-a583-32db70cf33fa.png" />
      <img alt="alt_text" width="75px" src="https://user-images.githubusercontent.com/48853024/206879107-7b9cdbea-ad46-4ce9-b45e-b2fb7939c3c9.png" />
      <img alt="alt_text" width="73px" src="https://user-images.githubusercontent.com/48853024/206879307-dbcbae3e-1cd5-4d9a-bbb7-66ca2b4ada23.png" />
+     <img alt="alt_text" width="70px" src="https://user-images.githubusercontent.com/48853024/206878432-0a76ddd3-f763-46eb-91c4-fe3ac9917d80.png" />
 
 
-- ## **💞️ I’m looking to collaborate with people who want to learn and make me learn**
+- ## **💞️ I’m looking to collaborate with people who want to learn and help me learn**
 
 
 
