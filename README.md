@@ -183,7 +183,9 @@ You can click the Preview link to take a look at your changes.
 
      - [1.Data Science](https://drive.google.com/drive/folders/1vqd-KHs5uofIPOg_NGDtdVXpHW2o6_oB?usp=sharing)
      - [2.Software Testing Help](https://www.softwaretestinghelp.com/)
-     - [3.]()
+     - [3.Take you forward](https://www.youtube.com/@takeUforward)
+     - [4. Striver SDE sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+     - [5.CodeHelp - by Babbar](https://www.youtube.com/@CodeHelp/playlists)
 
   ## **<img alt="alt_text" width="70px" src="https://user-images.githubusercontent.com/48853024/206630270-095623f4-847f-4da0-934f-8bec409bf4fc.png" /> Books which changed my life in a very good way.**
 
