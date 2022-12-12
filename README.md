@@ -141,6 +141,13 @@ You can click the Preview link to take a look at your changes.
 
 
 - ## **4. ML & Data Science**
+  ![image](https://user-images.githubusercontent.com/48853024/206936844-5664c43f-8e87-4450-a78c-fd8960b3ad62.png)
+  
+  
+  
+     - [Project]()
+          - [Relational Database Design](https://drive.google.com/file/d/1yKLhZdlfGQ2Gqhps8aiUhu1UTM802bJQ/view)
+
      - [Project]()
           - [The Structured Query Language](https://drive.google.com/file/d/1XJiz9Drn1GTKpI5GBEsKjQiuq7eeqeed/view?usp=sharing)
            
@@ -148,12 +155,10 @@ You can click the Preview link to take a look at your changes.
           - [Ethical Issues in Data Science]() 
           
      - [Project]()
-          - [Relational Database Design](https://drive.google.com/file/d/1yKLhZdlfGQ2Gqhps8aiUhu1UTM802bJQ/view)
-          
-     - [Project]()
           - [Data Mining Pipeline 1](https://drive.google.com/file/d/1AhIUQVTon8VGq4cjQ8xGqg8xjBWi4o7i/view?usp=sharing)
           - [Data Mining Pipeline 2](https://drive.google.com/file/d/1S5n-VtQ68ax2SK8ElfBoZynzuDSaysrY/view?usp=sharing)
           - [Data Mining Pipeline 3](https://drive.google.com/file/d/1kfdp5aMRAIRjx_R-T68-trl9-cCUeknf/view?usp=sharing)
+
           
 - ## **5. General CS Projects**
      - [Music library project_c++](https://docs.google.com/presentation/d/e/2PACX-1vTZuGS7GfmHVOwi055VyST3VV3OFcsKOujzDHsRhcSAVGeyS54mrIU9SQEWccDRcQ2WLbteQ2UqWqO8/pub?start=true&loop=false&delayms=3000)
