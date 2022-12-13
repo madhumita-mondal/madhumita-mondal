@@ -2,7 +2,7 @@
 
 
 ## About me
-## **👋 Hi, I’m Madhumita Mondal. I'm generally interested in Software Engineering / Data Science, Starting from Design and Ending with....hmmm, well there's no end!** 
+## **👋 Hi, I’m Madhumita Mondal. I'm generally interested in Software Engineering / Data Science, starting from design and ending with....hmmm, well there's no end!** 
 
 
 
