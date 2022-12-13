@@ -2,7 +2,7 @@
 
 
 ## About me
-## **👋 Hi, I’m Madhumita Mondal. I'm Generally interested in Software Engineering / Data Science, Starting from Design and Ending with....hmmm, well there's no end!** 
+## **👋 Hi, I’m Madhumita Mondal. I'm generally interested in Software Engineering / Data Science, Starting from Design and Ending with....hmmm, well there's no end!** 
 
 
 
@@ -170,7 +170,7 @@ You can click the Preview link to take a look at your changes.
      - [Project]()
      - [Project]()
 
-- ## **7. Soft Skills**
+- ## **7. My Soft Skills**
      - [Project]()
      - [Project]()
      - [Project]()
