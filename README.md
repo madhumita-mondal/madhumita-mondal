@@ -154,10 +154,43 @@ You can click the Preview link to take a look at your changes.
      - [Project]()
           - [Ethical Issues in Data Science]() 
           
-     - [Project]()
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ![image](https://user-images.githubusercontent.com/48853024/207985534-25d75150-bbeb-409b-9537-965ed6ce1b5e.png)
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    - [Project]()
           - [Data Mining Pipeline 1](https://drive.google.com/file/d/1AhIUQVTon8VGq4cjQ8xGqg8xjBWi4o7i/view?usp=sharing)
           - [Data Mining Pipeline 2](https://drive.google.com/file/d/1S5n-VtQ68ax2SK8ElfBoZynzuDSaysrY/view?usp=sharing)
           - [Data Mining Pipeline 3](https://drive.google.com/file/d/1kfdp5aMRAIRjx_R-T68-trl9-cCUeknf/view?usp=sharing)
+    - [Project]()
+          - [Data Mining Methods 1](https://drive.google.com/file/d/11Ib4u-bZS4WRHZzP5IMz_b7ATTRq8Msg/view?usp=sharing)
+          - [Data Mining Methods 2]()
+          - [Data Mining Methods 3]()
+
 
           
 - ## **5. General CS Projects**
