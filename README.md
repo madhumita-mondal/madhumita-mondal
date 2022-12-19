@@ -225,6 +225,7 @@ You can click the Preview link to take a look at your changes.
      - [4. Striver SDE sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
      - [5. CodeHelp - by Babbar](https://www.youtube.com/@CodeHelp/playlists)
      - [6. Geeks for Geeks](https://www.geeksforgeeks.org/?newui)
+     - [7. Google Tutorial](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/?programming_languages=python#sequence-3)
 
   ## **<img alt="alt_text" width="70px" src="https://user-images.githubusercontent.com/48853024/206630270-095623f4-847f-4da0-934f-8bec409bf4fc.png" /> Books which changed my life in a very good way.**
 
