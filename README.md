@@ -226,6 +226,15 @@ You can click the Preview link to take a look at your changes.
      - [5. CodeHelp - by Babbar](https://www.youtube.com/@CodeHelp/playlists)
      - [6. Geeks for Geeks](https://www.geeksforgeeks.org/?newui)
      - [7. Google Tutorial](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/?programming_languages=python#sequence-3)
+  
+  
+  
+  
+    ## **<img alt="alt_text" width="70px" src="https://user-images.githubusercontent.com/48853024/208546602-8b1bfd48-cfb7-41dd-8b29-b1bd633b06e7.png" /> My Recent Certificates**
+    - [Certificates](https://drive.google.com/drive/folders/1YHpYl8KsQxmHyRz4ux_BLv-blgJdMjpj?usp=sharing)
+    
+    
+
 
   ## **<img alt="alt_text" width="70px" src="https://user-images.githubusercontent.com/48853024/206630270-095623f4-847f-4da0-934f-8bec409bf4fc.png" /> Books which changed my life in a very good way.**
 
