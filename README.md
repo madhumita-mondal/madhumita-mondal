@@ -126,7 +126,7 @@ You can click the Preview link to take a look at your changes.
      - [Project]()
 
 - ## **2. Front End Development**
-     - [Project]()
+     - [Project](https://madhumita-mondal.github.io/Animated_border/)
      - [Project]()
      - [Project]()
 
