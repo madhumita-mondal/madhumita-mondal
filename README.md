@@ -199,7 +199,14 @@ You can click the Preview link to take a look at your changes.
 
 
           
-- ## **6. General CS Projects**
+- ## **6. Soft Skills in Data Science**
+     - [Project](https://github.com/madhumita-mondal/Project/blob/main/1st_project.pdf)
+     - [Project](https://github.com/madhumita-mondal/Project/blob/main/2nd_project_spam_mail_detection%20(1)%20(2)%20(2).pdf)
+     - [Project](https://github.com/madhumita-mondal/Project/blob/main/Chatbot_ipynb.ipynb)
+
+
+
+- ## **7. General CS Projects**
      - [Music library project_c++](https://docs.google.com/presentation/d/e/2PACX-1vTZuGS7GfmHVOwi055VyST3VV3OFcsKOujzDHsRhcSAVGeyS54mrIU9SQEWccDRcQ2WLbteQ2UqWqO8/pub?start=true&loop=false&delayms=3000)
      - [Pokedex_project](https://drive.google.com/file/d/1nAP9j2hZEcKs8tKkmmSlUrTky3hgnIgO/view?usp=sharing)
      - [Video_chat_app](https://github.com/madhumita-mondal/Video-Chat-App-Python-Project)
@@ -207,10 +214,7 @@ You can click the Preview link to take a look at your changes.
 
      
 
-- ## **7. Soft Skills in Data Science**
-     - [Project](https://github.com/madhumita-mondal/Project/blob/main/1st_project.pdf)
-     - [Project](https://github.com/madhumita-mondal/Project/blob/main/2nd_project_spam_mail_detection%20(1)%20(2)%20(2).pdf)
-     - [Project](https://github.com/madhumita-mondal/Project/blob/main/Chatbot_ipynb.ipynb)
+
 
 
 
