@@ -129,20 +129,24 @@ You can click the Preview link to take a look at your changes.
 - ## **2. Front End Development**
      - [Project](https://madhumita-mondal.github.io/Animated_border/)
      - [Project](https://madhumita-mondal.github.io/Css_border/)
-     - [Project](https://madhumita-mondal.github.io/css_login_form/
-)
+     - [Project](https://madhumita-mondal.github.io/css_login_form/)
+
+- ## **3. Problem Solving**
+     - [Project](http://127.0.0.1:5500/quiz.html)
+     - [Project](https://madhumita-mondal.github.io/Calculator_css_javascript/)
+     - [Project](https://madhumita-mondal.github.io/Todo_App/)
 
 
 
 
-- ## **3. Data Structure & Algorithms**
+- ## **4. Data Structure & Algorithms**
      - [Project](https://github.com/madhumita-mondal/currency-exchange_cpp_project)
      - [Project](https://github.com/madhumita-mondal/Supper_marcket_billing_system)
      - [Project](https://github.com/madhumita-mondal/Pharmacy-Management-System-in-C-with-MySQL)
 
 
 
-- ## **4. ML & Data Science**
+- ## **5. ML & Data Science**
   ![image](https://user-images.githubusercontent.com/48853024/206936844-5664c43f-8e87-4450-a78c-fd8960b3ad62.png)
   
   
@@ -195,18 +199,15 @@ You can click the Preview link to take a look at your changes.
 
 
           
-- ## **5. General CS Projects**
+- ## **6. General CS Projects**
      - [Music library project_c++](https://docs.google.com/presentation/d/e/2PACX-1vTZuGS7GfmHVOwi055VyST3VV3OFcsKOujzDHsRhcSAVGeyS54mrIU9SQEWccDRcQ2WLbteQ2UqWqO8/pub?start=true&loop=false&delayms=3000)
      - [Pokedex_project](https://drive.google.com/file/d/1nAP9j2hZEcKs8tKkmmSlUrTky3hgnIgO/view?usp=sharing)
      - [Video_chat_app](https://github.com/madhumita-mondal/Video-Chat-App-Python-Project)
 
-- ## **6. Problem Solving**
-     - [Project](http://127.0.0.1:5500/quiz.html)
-     - [Project](https://madhumita-mondal.github.io/Calculator_css_javascript/)
-     - [Project](https://madhumita-mondal.github.io/Todo_App/)
+
      
 
-- ## **7. My Soft Skills**
+- ## **7. Soft Skills in Data Science**
      - [Project](https://github.com/madhumita-mondal/Project/blob/main/1st_project.pdf)
      - [Project](https://github.com/madhumita-mondal/Project/blob/main/2nd_project_spam_mail_detection%20(1)%20(2)%20(2).pdf)
      - [Project](https://github.com/madhumita-mondal/Project/blob/main/Chatbot_ipynb.ipynb)
