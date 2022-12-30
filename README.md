@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 — **Steve Jobs**
 ---
 
-
+#[My Resume](https://resume.io/r/XAGEC7SNN)
 
 
 
