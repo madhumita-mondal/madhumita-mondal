@@ -28,8 +28,6 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## [**My Resume**](https://resume.io/r/XAGEC7SNN)
-<!-- - #[My Resume](https://resume.io/r/XAGEC7SNN) -->
-
 
 
 
