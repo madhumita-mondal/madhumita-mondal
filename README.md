@@ -124,7 +124,7 @@ You can click the Preview link to take a look at your changes.
      - [Project]( https://madhumita-mondal.github.io/grocery_project/)
      - [Project]( https://madhumita-mondal.github.io/Real_Estate_Project/)
      - [Project](https://madhumita-mondal.github.io/responsive_musicplayer/)
-     - [Project](https://madhumita-mondal.github.io/responsive_musicplayer/)
+     - [Project](https://github.com/madhumita-mondal/Food_recipe_app)
 
 - ## **2. Front End Development**
      - [Project](https://madhumita-mondal.github.io/Animated_border/)
