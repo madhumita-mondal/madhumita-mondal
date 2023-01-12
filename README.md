@@ -204,9 +204,9 @@ You can click the Preview link to take a look at your changes.
 
           
 - ## **6. Soft Skills in Data Science**
-     - [Project](https://github.com/madhumita-mondal/Project/blob/main/1st_project.pdf)
-     - [Project](https://github.com/madhumita-mondal/Project/blob/main/2nd_project_spam_mail_detection%20(1)%20(2)%20(2).pdf)
-     - [Project](https://github.com/madhumita-mondal/Project/blob/main/Chatbot_ipynb.ipynb)
+     - [House Price Prediction](https://github.com/madhumita-mondal/Project/blob/main/1st_project.pdf)
+     - [Spam mail Ditection](https://github.com/madhumita-mondal/Project/blob/main/2nd_project_spam_mail_detection%20(1)%20(2)%20(2).pdf)
+     - [AI ChatBot](https://github.com/madhumita-mondal/Project/blob/main/Chatbot_ipynb.ipynb)
 
 
 
