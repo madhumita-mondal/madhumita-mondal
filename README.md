@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## [**My Resume**](https://resume.io/r/XAGEC7SNN)
-## [**My Portfolio**](https://resume.io/r/XAGEC7SNN)
+## [**My Portfolio**](https://eloquent-pegasus-fb5c3f.netlify.app/)
 
 
 
