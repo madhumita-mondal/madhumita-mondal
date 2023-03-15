@@ -199,8 +199,8 @@ You can click the Preview link to take a look at your changes.
           - [Data Mining Pipeline 3](https://drive.google.com/file/d/1kfdp5aMRAIRjx_R-T68-trl9-cCUeknf/view?usp=sharing)
     - [Project]()
           - [Data Mining Methods 1](https://drive.google.com/file/d/11Ib4u-bZS4WRHZzP5IMz_b7ATTRq8Msg/view?usp=sharing)
-          - [Data Mining Methods 2]()
-          - [Data Mining Methods 3]()
+          - [Data Mining Methods 2](https://colab.research.google.com/drive/1N2zXYAX6pGI_d9pb7cUe7GarOR8srprd)
+          - [Data Mining Methods 3](https://colab.research.google.com/drive/1U71kjaHbmdjIoVZDCg5dR3-t4L5-Tkqv)
 
 
           
