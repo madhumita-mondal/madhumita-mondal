@@ -28,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## [**My Resume**](https://resume.io/r/XAGEC7SNN)
+## [**Resume in pdf and word format **](https://drive.google.com/drive/u/0/folders/1AVh7bsc969yCbprmDgD1U5zznsjHaZwn)
 ## [**My Ongoing MS Transcript**](https://drive.google.com/drive/u/0/folders/1oxXAfBW1MhziHpjV-JeBRb1cVyVf_g40)
 ## [**My Portfolio**](https://eloquent-pegasus-fb5c3f.netlify.app/)
 
